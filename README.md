@@ -1,0 +1,1 @@
+# Configure-security-for-an-Azure-Cosmos-DB-account
