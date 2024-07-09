@@ -48,7 +48,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ In Search services and marketplace, search for and select ***🆃 Azure Cosmos DB***, and then select **Create**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/a3e5ccc3-b142-4bfc-9ea3-433b3eb51f6b" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
@@ -59,7 +59,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ On the Create Azure Cosmos DB Account blade, complete the Basics page by using the values in the following table. For any property that is not specified, use the default value.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/21adea4d-ae8f-4f9e-9394-ffecfe7c525a" height="50%" width="50%" alt="9"/><br />
 <br>
 
 <br>
@@ -102,7 +102,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ On the Data Explorer page, in SQL API, expand **ToDoList**, expand **Items**, select **Items**, and then on the command bar, select **New Item**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/3208c81d-b09d-4cfb-8415-842ccb2faeab" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
@@ -131,7 +131,7 @@ It supports high volume and low latency for capturing big data.
 
 - You may need to select the ellipsis **(…)** to see the Save option.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/bdd12347-0200-4a7b-b36a-b4589e73497a" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
@@ -159,7 +159,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ On the command bar, select **New SQL Query**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/a9a02f62-8ddc-4d8d-9d04-d33c8146c266" height="20%" width="20%" alt="9"/><br />
 <br>
 
 <br>
@@ -177,14 +177,14 @@ It supports high volume and low latency for capturing big data.
 
 - You may need to select the (…) to see the Execute Query option.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/2b28c38f-c947-4278-a37c-9e1fe458d82b" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
 
 - The two items you created should be displayed.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/67cf05d7-9ce6-40db-ac30-07cfe9356b83" height="80%" width="80%" alt="9"/><br />
 <br>
 
 
@@ -233,7 +233,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ On the Access control (IAM) page, on the command bar, select **Add**, and then select **Add role assignment**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/12bd9955-2740-4f09-a777-2b40b270b6dd" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
@@ -285,7 +285,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ On the Data Explorer page, in SQL API, expand **ToDoList**, expand **Items**, select **Items**, and then on the command bar, select **New Item**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/80ab45b6-fdb2-44cd-bc8a-c59c7504c678" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
@@ -320,7 +320,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ On the command bar, select **New SQL Query**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-security-for-an-Azure-Cosmos-DB-account/assets/172988970/379c8598-1772-4faf-a63f-c34782d5abcd" height="20%" width="20%" alt="9"/><br />
 <br>
 
 <br>
