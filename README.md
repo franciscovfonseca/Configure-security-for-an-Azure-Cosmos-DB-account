@@ -11,7 +11,7 @@
 <h1> Configure Security for an Azure Cosmos DB Account</h1>
 <br>
 
-In this exercise, you will **Configure Security for an Azure Cosmos DB Account**.
+In this lab, you will **Configure Security for an Azure Cosmos DB Account**.
 
 1. First, you will **Create a Cosmos DB Account**, and then you will **Create a Container**.
 
