@@ -46,14 +46,14 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ In Search services and marketplace, search for and select Azure Cosmos DB, and then select Create.
+◻️ In Search services and marketplace, search for and select ***🆃 Azure Cosmos DB***, and then select **Create**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
 
-◻️ On the Select API option page, in Core (SQL) - Recommended, select Create.
+◻️ On the Select API option page, in Core (SQL) - Recommended, select **Create**.
 
 <br>
 
@@ -64,28 +64,28 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ Select Next : Global Distribution.
+◻️ Select **Next : Global Distribution**.
 
 <br>
 
-◻️ On the Global Distribution page, in Geo-Redundancy, select Disable, and then in Multi-region Writes, select Disable.
+◻️ On the Global Distribution page, in Geo-Redundancy, select **Disable**, and then in Multi-region Writes, select **Disable**.
 
 <br>
 
-◻️ Select Review + create, review the configuration, select Create, and then wait for the deployment to complete.
+◻️ Select **Review + create**, review the configuration, select **Create**, and then wait for the deployment to complete.
 
 - It will take approximately 3–5 minutes to deploy the Azure Cosmos DB account.
 <br>
 
 <br>
 
-◻️ When you are presented with a Your deployment is complete message, select Go to resource to display the cdb42241754 Azure Cosmos DB account page.
+◻️ When you are presented with a **Your deployment is complete** message, select **Go to resource** to display the cdb42241754 Azure Cosmos DB account page.
 
 <br>
 
 <br>
 
-◻️ On the cdb42241754 resource menu, select Quick start, and then select Create 'Items' container.
+◻️ On the cdb42241754 resource menu, select **Quick start**, and then select **Create 'Items' container**.
 
 - 💡 You create a container in a database.
   
@@ -96,11 +96,11 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ Select Open Data Explorer.
+◻️ Select **Open Data Explorer**.
 
 <br>
 
-◻️ On the Data Explorer page, in SQL API, expand ToDoList, expand Items, select Items, and then on the command bar, select New Item.
+◻️ On the Data Explorer page, in SQL API, expand **ToDoList**, expand **Items**, select **Items**, and then on the command bar, select **New Item**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
 <br>
@@ -127,7 +127,7 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ On the command bar, select Save to save the new item.
+◻️ On the command bar, select **Save** to save the new item.
 
 - You may need to select the ellipsis (…) to see the Save option.
 <p align="center">
@@ -136,7 +136,7 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ On the command bar, select New Item.
+◻️ On the command bar, select **New Item**.
 
 <br>
 
@@ -153,11 +153,11 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ On the command bar, select Save to save the new item.
+◻️ On the command bar, select **Save** to save the new item.
 
 <br>
 
-◻️ On the command bar, select New SQL Query.
+◻️ On the command bar, select **New SQL Query**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
 <br>
@@ -173,7 +173,7 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ On the command bar, select Execute Query, and then review the results.
+◻️ On the command bar, select **Execute Query**, and then review the results.
 
 - You may need to select the (…) to see the Execute Query option.
 <p align="center">
@@ -201,22 +201,22 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ On the cdb42241754 resource menu, in Settings, select Firewall and virtual networks.
+◻️ On the cdb42241754 resource menu, in Settings, select **Firewall and virtual networks**.
 
 - Note that, currently, the Cosmos DB account is accessible from all networks.
 <br>
 
 <br>
 
-◻️ On the Firewall and virtual networks page, in Allow access from, select Selected networks.
+◻️ On the Firewall and virtual networks page, in Allow access from, select **Selected networks**.
 
 <br>
 
-◻️ In Firewall, select Add my current IP.
+◻️ In Firewall, select **Add my current IP**.
 
 <br>
 
-◻️ In Exceptions, select Accept connections from within public Azure datacenters, and then ensure that Allow access from Azure Portal is selected.
+◻️ In Exceptions, select **Accept connections from within public Azure datacenters**, and then ensure that **Allow access from Azure Portal** is selected.
 
 <br>
 
@@ -227,26 +227,26 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ On the cdb42241754 resource menu, select Access control (IAM)
+◻️ On the cdb42241754 resource menu, select **Access control (IAM)**
 
 <br>
 
-◻️ On the Access control (IAM) page, on the command bar, select Add, and then select Add role assignment.
+◻️ On the Access control (IAM) page, on the command bar, select **Add**, and then select **Add role assignment**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
 
-◻️ On the Add role assignment blade, on the Role page, select Cosmos DB Account Reader Role, and then select Next.
+◻️ On the Add role assignment blade, on the Role page, select ***🆃 Cosmos DB Account Reader Role***, and then select **Next**.
 
 <br>
 
-◻️ On the Members page, select Select members, search for and select dev-42241754, and then select Select.
+◻️ On the Members page, select **Select members**, search for and select ***🆃 dev-42241754***, and then select **Select**.
 
 <br>
 
-◻️ On the Add role assignment blade, select Next, and then select Review + Assign to assign the role to the user.
+◻️ On the Add role assignment blade, select **Next**, and then select **Review + Assign** to assign the role to the user.
 <br>
 
 
@@ -264,26 +264,26 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ Open an InPrivate or incognito browser window:
 
-- Go to the Azure portal at http://portal.azure.com, and then sign in as dev-42241754 using cDeC3e!0D@ as the password.
+- Go to the Azure portal at ***🆃 http://portal.azure.com***, and then sign in as ***🆃 dev-42241754*** using ***🆃 cDeC3e!0D@*** as the password.
 
 - You will use this browser session for the remaining steps in this task.
 <br>
 
 <br>
 
-◻️ If prompted to stay signed in, select No.
+◻️ If prompted to stay signed in, select **No**.
 
 <br>
 
-◻️ On the Azure portal home page, select All resources, and then select the cdb42241754 Azure Cosmos DB account.
+◻️ On the Azure portal home page, select **All resources**, and then select the **cdb42241754** Azure Cosmos DB account.
 
 <br>
 
-◻️ On the cdb42241754 resource menu, select Data Explorer.
+◻️ On the cdb42241754 resource menu, select **Data Explorer**.
 
 <br>
 
-◻️ On the Data Explorer page, in SQL API, expand ToDoList, expand Items, select Items, and then on the command bar, select New Item.
+◻️ On the Data Explorer page, in SQL API, expand **ToDoList**, expand **Items**, select **Items**, and then on the command bar, select **New Item**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
 <br>
@@ -303,29 +303,29 @@ It supports high volume and low latency for capturing big data.
 
 <br>
 
-◻️ On the command bar, select Save to attempt to save the new item.
+◻️ On the command bar, select **Save** to attempt to save the new item.
 
 - You may need to select the ellipsis (…) to see the Save option.
 
 - ⚠️ The operation should fail.
 
-  - You should see a The input authorization token can't serve the request message because the user has read-only access.
+  - You should see a ***The input authorization token can't serve the request message*** because the user has read-only access.
 <br>
 
 <br>
 
-◻️ Review the failure message, and then select Close.
+◻️ Review the failure message, and then select **Close**.
 
 <br>
 
-◻️ On the command bar, select New SQL Query.
+◻️ On the command bar, select **New SQL Query**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
 
-◻️ On the command bar, select Execute Query, and then review the results.
+◻️ On the command bar, select **Execute Query**, and then review the results.
 
 - The two items you created should be displayed because the user has read-only access.
 
