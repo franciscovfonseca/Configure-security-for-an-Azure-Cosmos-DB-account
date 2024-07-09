@@ -11,13 +11,13 @@
 <h1> Configure Security for an Azure Cosmos DB Account</h1>
 <br>
 
-In this exercise, you will configure security for an Azure Cosmos DB account.
+In this exercise, you will **Configure Security for an Azure Cosmos DB Account**.
 
-1. First, you will create a Cosmos DB account, and then you will create a container.
+1. First, you will **Create a Cosmos DB Account**, and then you will **Create a Container**.
 
-2. Next, you will populate the container with items, and then you will configure secure access.
+2. Next, you will **Populate the Container** with items, and then you will **Configure Secure Access**.
 
-3. Finally, you will access the data by using the Core (SQL) API and role-based access control (RBAC) for security.
+3. Finally, you will **Access the Data** by using the **Core (SQL) API** and **role-based access control (RBAC)** for security.
 
 <br>
 
@@ -35,9 +35,9 @@ It supports high volume and low latency for capturing big data.
 ### ✔️ In this task, you will create and secure an Azure Cosmos DB account that contains data.
 <br>
 
-1. First, you will create an Azure Cosmos DB account.
-2. Next, you will create a container in a new database, and then you will populate the container with items. 
-3. Finally, you will access the data by using the Core (SQL) API.
+1. First, you will create an **Azure Cosmos DB account**.
+2. Next, you will **create a container** in a new database, and then you will **populate the container** with items. 
+3. Finally, you will access the data by using the **Core (SQL) API**.
 <br>
 
 <br>
@@ -129,7 +129,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ On the command bar, select **Save** to save the new item.
 
-- You may need to select the ellipsis (…) to see the Save option.
+- You may need to select the ellipsis **(…)** to see the Save option.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
 <br>
@@ -305,7 +305,7 @@ It supports high volume and low latency for capturing big data.
 
 ◻️ On the command bar, select **Save** to attempt to save the new item.
 
-- You may need to select the ellipsis (…) to see the Save option.
+- You may need to select the ellipsis **(…)** to see the Save option.
 
 - ⚠️ The operation should fail.
 
