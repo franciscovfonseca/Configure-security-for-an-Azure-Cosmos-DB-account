@@ -22,12 +22,18 @@ In this lab, you will **Configure Security for an Azure Cosmos DB Account**.
 <br>
 
 
+  <details close> 
+  
+**<summary> 💡 Note</summary>**
+
 Azure Cosmos DB is a non-relational, NoSQL distributed database that is designed for the cloud.
 
 It supports high volume and low latency for capturing big data.
-<br>
+
+  </details>
 
 <br>
+
 
 <h2>1️⃣ Create a Cosmos DB Account</h2>
 <br>
